@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="13" height="7" viewBox="0 0 13 7">
+    <defs>
+        <style>.a{fill:#fefefe;fill-rule:evenodd;}</style>
+    </defs>
+    <g transform="translate(13.002 -0.011) rotate(90)">
+        <g transform="translate(0.011 0.002)">
+            <g transform="translate(0 0)">
+                <path class="a"
+                      d="M6.863,6.146.868.149A.5.5,0,0,0,.159.863L5.8,6.5.159,12.142a.5.5,0,1,0,.71.713l5.995-6a.5.5,0,0,0,0-.714Z"
+                      transform="translate(-0.011 -0.002)"/>
+            </g>
+        </g>
+    </g>
+</svg>

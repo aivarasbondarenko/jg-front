@@ -1,0 +1,19 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="11.722" height="6.331" viewBox="0 0 11.722 6.331">
+    <defs>
+        <style>.a{fill-rule:evenodd;}</style>
+    </defs>
+    <g style="fill:#1A5A40;" transform="translate(11.722) rotate(90)">
+        <g transform="translate(0 0)">
+            <g transform="translate(0 0)">
+                <path class="a"
+                      d="M6.2,5.539.775.133A.454.454,0,1,0,.134.776l5.1,5.085-5.1,5.085a.454.454,0,0,0,.642.643L6.2,6.182a.454.454,0,0,0,0-.643Z"/>
+            </g>
+        </g>
+        <g transform="translate(0 0)">
+            <g transform="translate(0 0)">
+                <path class="a"
+                      d="M6.2,5.539.775.133A.454.454,0,1,0,.134.776l5.1,5.085-5.1,5.085a.454.454,0,0,0,.642.643L6.2,6.182a.454.454,0,0,0,0-.643Z"/>
+            </g>
+        </g>
+    </g>
+</svg>
